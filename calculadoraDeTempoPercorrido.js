@@ -13,6 +13,4 @@ console.log("Tempo exato do percurso:",tempoSegundos, "segundos")
 console.log("Tempo arredondado do percurso",tempoHoras.toFixed(2), "horas")
 console.log("Velocidade média:", velocidade, "Km/h")
 
-// Vm = 7.4 km/h
-// S = 10.4 km
 
